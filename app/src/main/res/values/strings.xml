@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Analisador</string>
+    <string name="tvname">Name</string>
+    <string name="tvSituation">Situation</string>
+    <string name="rbEmployee">Employee</string>
+    <string name="rbUnemployed">Unemployed</string>
+    <string name="rbDoNotSeekOccupation">Do not seek occupation</string>
+    <string name="btnTip">Tip</string>
+    <string name="btnClean">Clean</string>
 </resources>
