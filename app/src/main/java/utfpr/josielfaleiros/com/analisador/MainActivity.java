@@ -38,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
         switch (item.getItemId()) {
             case 1:
                 // write your code here
-                Toast msg = Toast.makeText(MainActivity.this, "Menu 1", Toast.LENGTH_LONG);
-                msg.show();
+                Intent intent = new Intent(this, AboutActivity.class);
+                startActivity(intent);
                 return true;
 
             default:
