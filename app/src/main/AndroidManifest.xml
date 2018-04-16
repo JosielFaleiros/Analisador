@@ -19,7 +19,8 @@
         <activity
             android:name=".MessageActivity"
             android:parentActivityName=".MainActivity"></activity>
-        <activity android:name=".AboutActivity"></activity>
+        <activity android:name=".AboutActivity"
+            android:parentActivityName=".MainActivity"></activity>
     </application>
 
 </manifest>
