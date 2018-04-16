@@ -15,7 +15,8 @@
         android:ems="10"
         android:inputType="textPersonName"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tvName" />
+        app:layout_constraintTop_toBottomOf="@+id/tvName"
+        android:layout_marginLeft="36dp" />
 
     <TextView
         android:id="@+id/tvName"
@@ -25,7 +26,8 @@
         android:layout_marginTop="44dp"
         android:text="@string/tvname"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginLeft="36dp" />
 
     <TextView
         android:id="@+id/textView2"
@@ -35,7 +37,8 @@
         android:layout_marginTop="24dp"
         android:text="@string/tvSituation"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/etName" />
+        app:layout_constraintTop_toBottomOf="@+id/etName"
+        android:layout_marginLeft="36dp" />
 
     <RadioGroup
         android:id="@+id/radioGroup"
@@ -44,7 +47,8 @@
         android:layout_marginStart="36dp"
         android:layout_marginTop="24dp"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView2">
+        app:layout_constraintTop_toBottomOf="@+id/textView2"
+        android:layout_marginLeft="36dp">
 
         <RadioButton
             android:id="@+id/radioButton"
@@ -84,7 +88,8 @@
         android:onClick="getTip"
         android:text="@string/btnTip"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup"
+        android:layout_marginLeft="36dp" />
 
     <Button
         android:id="@+id/button2"
@@ -98,6 +103,8 @@
         android:text="@string/btnClean"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/button"
-        app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+        app:layout_constraintTop_toBottomOf="@+id/radioGroup"
+        android:layout_marginRight="36dp"
+        android:layout_marginLeft="8dp" />
 
 </android.support.constraint.ConstraintLayout>
