@@ -11,5 +11,7 @@
     <string name="str_dont_worry">Do not worry</string>
     <string name="str_good_life">What a good life</string>
     <string name="mark_point" translatable="false">!</string>
-    <string name="str_about">Developer: Josiel Faleiros Alves</string>
+    <string name="str_about_name">Name: Josiel Faleiros Alves</string>
+    <string name="about_ra" translatable="false">RA: 1694049</string>
+    <string name="about_course">Course: Software Engineering</string>
 </resources>

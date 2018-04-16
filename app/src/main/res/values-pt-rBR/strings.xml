@@ -11,5 +11,6 @@
     <string name="str_congrats">Parabéns</string>
     <string name="str_dont_worry">"Não se preocupe "</string>
     <string name="str_good_life">"Que vida boa "</string>
-    <string name="str_about">Desenvolvedor: Josiel Faleiros Alves</string>
+    <string name="str_about_name">Nome: Josiel Faleiros Alves</string>
+    <string name="about_course">Curso: Engenharia de Software</string>
 </resources>
