@@ -7,9 +7,9 @@
     <string name="rbDoNotSeekOccupation">Do not seek occupation</string>
     <string name="btnTip">Tip</string>
     <string name="btnClean">Clean</string>
-    <string name="str_congrats">Parabéns </string>
-    <string name="str_dont_worry">Não se preocupe </string>
-    <string name="str_good_life">Que vida boa </string>
-    <string name="mark_point">!</string>
-    <string name="str_about">Desenvolvedor: Josiel Faleiros Alves</string>
+    <string name="str_congrats">"Congratulations "</string>
+    <string name="str_dont_worry">Do not worry</string>
+    <string name="str_good_life">What a good life</string>
+    <string name="mark_point" translatable="false">!</string>
+    <string name="str_about">Developer: Josiel Faleiros Alves</string>
 </resources>

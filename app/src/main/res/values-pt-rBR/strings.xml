@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Analisador</string>
+    <string name="tvname">Nome</string>
+    <string name="tvSituation">Situação</string>
+    <string name="rbEmployee">Empregado</string>
+    <string name="rbUnemployed">Desempregado</string>
+    <string name="rbDoNotSeekOccupation">Não está buscando emprego</string>
+    <string name="btnTip">Dica</string>
+    <string name="btnClean">Limpar</string>
+    <string name="str_congrats">Parabéns</string>
+    <string name="str_dont_worry">"Não se preocupe "</string>
+    <string name="str_good_life">"Que vida boa "</string>
+    <string name="str_about">Desenvolvedor: Josiel Faleiros Alves</string>
+</resources>
