@@ -15,6 +15,8 @@ public class MessageActivity extends AppCompatActivity {
         setContentView(R.layout.activity_message);
         tvTip = findViewById(R.id.tvTip);
 
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
         Intent intent = getIntent();
         Bundle bundle = intent.getExtras();
         String name = bundle.getString(KEY_NOME);
