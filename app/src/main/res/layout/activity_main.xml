@@ -60,20 +60,18 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton"
+            android:text="@string/rbUnemployed"
             tools:layout_editor_absoluteX="53dp"
-            tools:layout_editor_absoluteY="239dp"
-            tools:text="@string/rbUnemployed" />
+            tools:layout_editor_absoluteY="239dp" />
 
         <RadioButton
             android:id="@+id/radioButton3"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="RadioButton"
+            android:text="@string/rbDoNotSeekOccupation"
             tools:layout_editor_absoluteX="36dp"
-            tools:layout_editor_absoluteY="273dp"
-            tools:text="@string/rbDoNotSeekOccupation" />
+            tools:layout_editor_absoluteY="273dp" />
     </RadioGroup>
 
     <Button
